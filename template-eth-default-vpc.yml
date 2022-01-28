@@ -8,7 +8,7 @@
 AWSTemplateFormatVersion: '2010-09-09'
 
 Metadata:
-  RepoUrl: https://github.com/mludvig/aws-ethereum-miner
+  RepoUrl: https://github.com/Lotur1234/aws
   AWS::CloudFormation::Interface:
     ParameterGroups:
       - Label:
